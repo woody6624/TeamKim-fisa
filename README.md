@@ -2,7 +2,7 @@
 
 |  | [김지훈]<img src="https://i.namu.wiki/i/GKIgcoSEuqSClCbdQI2fGfaCvHBHdhN9gF224LBH-U9VZQaDgtXoreGn8c-ntfHQvc2a6qe_JkbptIwXOuMDakTwyFoUiKV8YsVBeEB93cjudNvengLdWQLc4wpcl4GyT2oP3K3NMD7aOsSHjB9Q3Q.webp"> | [김우현]<img src = "https://upload.wikimedia.org/wikipedia/ko/e/eb/%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0_%EB%A0%88%EB%93%9C%C2%B7%EA%B7%B8%EB%A6%B0%EC%9D%98_%ED%99%8D%EB%B3%B4_%EC%9E%91%ED%92%88%EC%97%90_%EB%AC%98%EC%82%AC_%EB%90%9C_%ED%94%BC%EC%B9%B4%EC%B8%84.png" > | [김예진]<img src= "https://i.namu.wiki/i/AN8RP4D_OQhlnL5noTT-qbIvcxSPv0h37e2zXWtwQ2JsPCWqf9vkNepJCr5SBBjZx6lD2alUjIBFYl4FOdkOCaPjEaPtAqrx6S4_Ia7oZQeb-Jw7xVgh1lyV4SyjF0RQv3R85eETL0pFk4aqjAkz5A.webp"> | [김소연]<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi3UmAUn0Cx9_1ub0VCHlpZfXQ8egz0ivtBw&s"> |
 | --- | --- | --- | --- | --- |
-| **팀원** | [**김지훈**](##🙂-김지훈) | [**김우현**](https://www.notion.so/FISA-092745cd805e4f079e59bb737d1f5e03?pvs=21) | [**김예진**](https://www.notion.so/FISA-092745cd805e4f079e59bb737d1f5e03?pvs=21) | [**김소연**](https://www.notion.so/FISA-092745cd805e4f079e59bb737d1f5e03?pvs=21) |
+| **팀원** | [**김지훈**](#🙂-김지훈) | [**김우현**](https://www.notion.so/FISA-092745cd805e4f079e59bb737d1f5e03?pvs=21) | [**김예진**](https://www.notion.so/FISA-092745cd805e4f079e59bb737d1f5e03?pvs=21) | [**김소연**](https://www.notion.so/FISA-092745cd805e4f079e59bb737d1f5e03?pvs=21) |
 | **MBTI** | INTP | ENFP | ISTJ | INFJ |
 
 ## 🙂 김지훈
