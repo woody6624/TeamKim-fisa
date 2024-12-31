@@ -1,6 +1,6 @@
 # 💪TeamKim_fisa💚
 
-|  | [김지훈]<img src="https://i.namu.wiki/i/GKIgcoSEuqSClCbdQI2fGfaCvHBHdhN9gF224LBH-U9VZQaDgtXoreGn8c-ntfHQvc2a6qe_JkbptIwXOuMDakTwyFoUiKV8YsVBeEB93cjudNvengLdWQLc4wpcl4GyT2oP3K3NMD7aOsSHjB9Q3Q.webp"> | [김우현]<img src = "https://upload.wikimedia.org/wikipedia/ko/e/eb/%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0_%EB%A0%88%EB%93%9C%C2%B7%EA%B7%B8%EB%A6%B0%EC%9D%98_%ED%99%8D%EB%B3%B4_%EC%9E%91%ED%92%88%EC%97%90_%EB%AC%98%EC%82%AC_%EB%90%9C_%ED%94%BC%EC%B9%B4%EC%B8%84.png" > | ![김예진](이미지 URL) | ![김소연](이미지 URL) |
+|  | [김지훈]<img src="https://i.namu.wiki/i/GKIgcoSEuqSClCbdQI2fGfaCvHBHdhN9gF224LBH-U9VZQaDgtXoreGn8c-ntfHQvc2a6qe_JkbptIwXOuMDakTwyFoUiKV8YsVBeEB93cjudNvengLdWQLc4wpcl4GyT2oP3K3NMD7aOsSHjB9Q3Q.webp"> | [김우현]<img src = "https://upload.wikimedia.org/wikipedia/ko/e/eb/%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0_%EB%A0%88%EB%93%9C%C2%B7%EA%B7%B8%EB%A6%B0%EC%9D%98_%ED%99%8D%EB%B3%B4_%EC%9E%91%ED%92%88%EC%97%90_%EB%AC%98%EC%82%AC_%EB%90%9C_%ED%94%BC%EC%B9%B4%EC%B8%84.png" > | [김예진]<img src= "https://i.namu.wiki/i/AN8RP4D_OQhlnL5noTT-qbIvcxSPv0h37e2zXWtwQ2JsPCWqf9vkNepJCr5SBBjZx6lD2alUjIBFYl4FOdkOCaPjEaPtAqrx6S4_Ia7oZQeb-Jw7xVgh1lyV4SyjF0RQv3R85eETL0pFk4aqjAkz5A.webp"> | [김소연]<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi3UmAUn0Cx9_1ub0VCHlpZfXQ8egz0ivtBw&s"> |
 | --- | --- | --- | --- | --- |
 | **팀원** | [**김지훈**](#table1) | [**김우현**](#table2) | [**김예진**](#table3) | [**김소연**](#table4) |
 | **MBTI** | INTP | ENFP | ISTJ | INFJ |
@@ -27,6 +27,7 @@
 | 김소연 | 먼저 말걸어 주시고, 대화도 편하게 나눌 수 있도록 해주셨다. | 첫인상이랑 같게 대화를 잘이끌어주시고 편안하신 분 같다. 연태고량주와 맥주의 조합을 추천해주셨고 술잘알이신 것 같다. |
 <a name="table4"></a>
 ## 😁 김소연
+
 | 작성자 | 식사 전 첫인상 | 식사 후 첫인상 |
 | --- | --- | --- |
 | 김지훈 | 처음에  차분한 성격인줄 알았다. | 역시 차분한 성격이었다. 면접때 본적이 있었어서 반가웠었다. 오이를 싫어한다. 편식하면 나빠요 |
